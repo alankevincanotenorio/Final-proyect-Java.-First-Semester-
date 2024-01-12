@@ -1,0 +1,5 @@
+TU CATALOGO ES EL SIGUIENTE
+Tipo de empleado: Malabaristas Cantidad: 1 Sueldo por hora: $200.0
+Tipo de empleado: Leon Cantidad: 1 Sueldo por hora: $100.0
+Tipo de empleado: Payasos Cantidad: 1 Sueldo por hora: $100.0
+Duracion del evento: 1 Comision:1 La cotización total del evento es:404.0

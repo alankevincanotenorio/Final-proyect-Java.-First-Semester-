@@ -1,0 +1,3 @@
+TU CATALOGO ES EL SIGUIENTE
+Tipo de empleado: Payasos Cantidad: 1 Sueldo por hora: $100.0
+Duracion del evento: 0 Comision:1 La cotización total del evento es:0.0

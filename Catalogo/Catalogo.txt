@@ -1,0 +1,6 @@
+TU CATALOGO ES EL SIGUIENTE
+Tipo de empleado: Domador Cantidad: 1 Sueldo por hora: $50.0
+Tipo de empleado: Leon Cantidad: 3 Sueldo por hora: $10.0
+Tipo de empleado: Malabaristas Cantidad: 2 Sueldo por hora: $200.0
+Tipo de empleado: Payasos Cantidad: 3 Sueldo por hora: $100.0
+
